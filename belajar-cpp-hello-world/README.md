@@ -64,3 +64,9 @@ Selanjutnya, pada baris ke-5, kita menggunakan cout dengan operator << untuk mem
 ```
 std::cout << "Hello World!\n";
 ```
+
+## Traktir
+
+Traktir saya di sini:
+
+https://sociabuzz.com/lsfkrshb/tribe
