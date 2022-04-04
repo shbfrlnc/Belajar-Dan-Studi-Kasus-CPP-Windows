@@ -65,12 +65,4 @@ Selanjutnya, pada baris ke-5, kita menggunakan cout dengan operator << untuk mem
 std::cout << "Hello World!\n";
 ```
 
-## Info Tambahan
-
-Traktir Saya:
-
-https://sociabuzz.com/lsfkrshb/tribe
-
-Channel YouTube Saya:
-
-https://www.youtube.com/c/SHBFRLNC
+# 
