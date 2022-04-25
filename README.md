@@ -10,8 +10,8 @@ Berikut ini daftar artikelnya:
 
 - [Belajar CPP Hello World](https://github.com/shbfrlnc/Belajar-Dan-Studi-Kasus-CPP-Windows/tree/main/belajar-cpp-hello-world)
 
-## Info Tambahan
+## More Info
 
-Traktir Saya, Channel YouTube Saya, dan lain-lain:
+Support me, my youtube channel, etc:
 
-- https://sociabuzz.com/lsfkrshb
+- https://shbfrlnc.github.io
